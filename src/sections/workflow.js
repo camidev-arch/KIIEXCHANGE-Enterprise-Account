@@ -18,7 +18,7 @@ export default function WorkFlow() {
 
         <h1 style={{textAlign:'center', color:'white',fontSize:'40px', marginBlockEnd:'0',lineHeight:'1.0'}}>Únase al primer sistema financiero <br></br> abierto del mundo</h1>
         <p style={{textAlign:'center', color:'white',marginBlockStart:'0',marginTop:'15px',lineHeight:'1.4'}}>+8000 comercios que ya aceptan criptomonedas <br></br>como método de pago</p>
-        <label style={{marginLeft: '32%',position:'relative',padding:'0',margin:'0', height:'100vh',justifyContent:'center',alignItems:'center'}}>
+        <label style={{marginLeft: '35%',position:'relative',padding:'0',margin:'0', height:'100vh',justifyContent:'center',alignItems:'center'}}>
           <input style={{padding: '13px 30px',borderRadius:'10px',borderColor:'transparent',justifyContent:'center',alignItems:'center'}} type={'text'} placeholder="email"></input>
           <button className="donate__btn css-d7q6ja" style={{color: 'white',borderRadius:'10px',borderColor:'transparent',backgroundColor:'#08080830',textAlign:'center',justifyContent:'center !important',alignItems:'center !Important'}}>Comenzar Ahora</button>
         </label>
